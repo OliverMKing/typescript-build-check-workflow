@@ -1,6 +1,6 @@
 # typescript-build-check-workflow
 
-Github Action workflow to guarantee TypeScript code has been built in a pull request.
+Github workflow to guarantee TypeScript code has been built in a pull request.
 
 This has a few clear advantages:
 
