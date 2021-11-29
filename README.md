@@ -21,5 +21,4 @@ The comment left on failed PRs can be modified under the `body` section of the `
 
 ## Planned Updates
 
-- Fix comment on other step failing bug
 - Shorten `diff` flags (figure out which ones are key)
